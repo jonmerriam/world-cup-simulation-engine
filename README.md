@@ -21,6 +21,20 @@ The project includes:
 * Visual knockout bracket
 * Streamlit web app interface
 
+## App Screenshots
+
+### Monte Carlo Probability Dashboard
+
+![Monte Carlo Probability Dashboard](assets/Page_1.png)
+
+### Single Tournament Knockout Bracket
+
+![Single Tournament Knockout Bracket](assets/Page_2.png)
+
+### Model Explanation
+
+![Model Explanation](assets/Page_3.png)
+
 ## Features
 
 ### Monte Carlo Probabilities
