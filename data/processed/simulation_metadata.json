@@ -1,0 +1,9 @@
+{
+    "n_sims": 100,
+    "rating_source": "World Football Elo",
+    "host_elo_boost": 35,
+    "strength_adjustment": 0.6,
+    "third_place_mapping": "Official FIFA Annexe C",
+    "knockout_path": "Official FIFA 2026 M73-M104 path",
+    "generated_at": "2026-06-26 15:06:43"
+}

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.env
+.env.*
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Large or temporary files
+*.log
+
+data/raw/FWC2026_regulations_EN.pdf
