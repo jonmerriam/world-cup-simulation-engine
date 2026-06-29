@@ -1,5 +1,7 @@
 # FIFA World Cup Simulation Engine
 
+**Live App:** https://worldcupsimulator2026.streamlit.app/  
+
 This project is a Python and Streamlit-based FIFA World Cup simulation engine. It uses Elo-based team ratings and Monte Carlo simulation to estimate each team’s probability of advancing through the group stage, reaching each knockout round, and winning the tournament.
 
 The simulator follows the 2026 World Cup structure, including the 48-team group stage, best third-place qualification, official knockout path, and FIFA third-place assignment mapping. Users can view saved simulation probabilities, run new simulations, and generate a single full tournament with group tables and a visual knockout bracket.
